@@ -52,15 +52,22 @@ Although intuitively the change aimed to improve player retention, the experimen
 🚀 **How to Run**
 
 Clone this repository:  
-`git clone https://github.com/shubham100827/Game-A-B-Testing-Measuring-Retention-and-Session-Improvements.git`
+```
+git clone https://github.com/shubham100827/Game-A-B-Testing-Measuring-Retention-and-Session-Improvements.git
+```
 
 Navigate to the folder: 
-`cd Game-A-B-Testing-Measuring-Retention-and-Session-Improvements`
+```
+cd Game-A-B-Testing-Measuring-Retention-and-Session-Improvements
+``` 
 
 Install dependencies: 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 Open the notebook: 
-`jupyter notebook game_optimization_ab_testing.ipynb`
-
+```
+jupyter notebook game_optimization_ab_testing.ipynb
+```
 -----
